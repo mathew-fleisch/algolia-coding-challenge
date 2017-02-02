@@ -43,7 +43,7 @@ $(function () {
 					+'<div class="info-container">'
 						+'<div class="info-title">'+ret.name+'</div>'
 						+'<div class="info-review-container">'
-							+'<div class="info-raiting">'
+							+'<div class="info-rating">'
 								+'<span class="info-stars-count">'+ret.stars_count+'</span>'
 								+'<ul>';
 								for(var i = 0; i < 5; i++) {
@@ -86,18 +86,18 @@ $(function () {
 		var id = parseInt($(this).attr('id').replace(/^po-/, ''));
 		// console.log("Payment Option ID: "+id);
 	});
-	$(document).on('click mouseenter mouseleave', '.raiting-container ul li img', function(e) {
+	$(document).on('click mouseenter mouseleave', '.rating-container ul li img', function(e) {
 		var empty = 'inc/graphics/star-empty.png';
 		var filled = 'inc/graphics/stars-plain.png';
 		e.preventDefault();
 		var id = parseInt($(this).attr('id').replace(/star-/, ''));
 		// console.log(id);
 		if(e.type === 'mouseleave') {
-			$('.raiting-container ul li img').attr('src', empty);
+			$('.rating-container ul li img').attr('src', empty);
 		}
 
 		if(e.type === 'mouseenter') {
-			$('.raiting-container ul li img').attr('src', empty);
+			$('.rating-container ul li img').attr('src', empty);
 			for(var i = 1; i <= id; i++) {
 				$('#star-'+i).attr('src', filled);
 			}

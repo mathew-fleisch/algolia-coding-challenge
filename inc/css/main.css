@@ -66,17 +66,17 @@
 
 
 /* Raiting Styles */
-.raiting-container {
+.rating-container {
     margin-bottom:40px;
 }
-.raiting-container ul, .raiting-container ul li { 
+.rating-container ul, .rating-container ul li { 
     list-style: none;
     list-style-type: none;
     padding:0;
     margin:0;
     display:inline-block;
 }
-.raiting-container ul, .raiting-container ul li, .raiting-container ul li img {
+.rating-container ul, .rating-container ul li, .rating-container ul li img {
     cursor:pointer;
 }
 /* Raiting Styles END*/
@@ -142,7 +142,7 @@
     font-size: 110%;
 }
 .info-review-container { float:left; margin-top: 5px; }
-.info-raiting ul, .info-raiting ul li { 
+.info-rating ul, .info-rating ul li { 
     list-style: none;
     list-style-type: none;
     padding:0;
@@ -150,11 +150,11 @@
     display:inline-block;
 }
 .info-stars-count { color: #ffab66; }
-.info-stars-count, .info-raiting ul, .info-raiting { float:left; }
-.info-raiting ul { 
+.info-stars-count, .info-rating ul, .info-rating { float:left; }
+.info-rating ul { 
     margin-left:5px;
 }
-.info-raiting ul li {
+.info-rating ul li {
     position: relative;
     width:15px;
     height:15px;

@@ -1,6 +1,6 @@
 Greetings George,
 
-I think I can help provide some clarity on the questions you had with search engines. First off, a “record” simply refers to a single search result, or row in a database. Databases are basically like big spreadsheets, and a record would also refer to a row in a spreadsheet. “Indexing” helps improve search response time by pre-mapping where common things are in the database; like an old speed-dial on a land-line phone. “Custom Ranking” is a standard for highlight important keywords on a site. If you have an outdoor retail store, you might want to add keywords about hiking and camping to draw more users to your site. 
+I think I can help provide some clarity on the questions you had with search engines. First off, a “record” simply refers to a single search result, or row in a database. Databases are basically like big spreadsheets, and a record would also refer to a row in a spreadsheet. “Indexing” helps improve search response time by pre-mapping where common things are in the database; like an old speed-dial on a land-line phone. “Custom Ranking” is a standard for highlighting important keywords on a site. If you have an outdoor retail store, you might want to add keywords about hiking and camping to draw more users to your site. 
 
 Hope this helps, and let met know if you have any other questions,
 Mathew
@@ -10,7 +10,7 @@ Mathew
 
 Greeting Matt,
 
-Sorry to hear that you aren't liking the layout of the new dashboard. As far as I know, the buttons are where they are now to prevent erroneous deletions. When I have to do a repetitive task in a user interface, I will often program a macro to cut down on the number of manual clicks I have to click. A macro is basically a sequence of clicks and/or keystrokes that you can “play back” many times. I personally own a keyboard/mouse that comes with software to record and playback macros, but there are also more sophisticated ways of creating macros. There are chrome/firefox extensions called “iMacros” that are specifically for this type of problem. A more professional tool that has even more control when creating macros is called “Selenium.” As for the long term, I will send your complaint up the chain, and ask about creating some bulk actions for deleting and clearing caches of multiple indices.
+Sorry to hear that you aren't liking the layout of the new dashboard. As far as I know, the buttons are where they are now to prevent erroneous deletions. When I have to do a repetitive task in a user interface, I will often program a macro to cut down on the number of manual clicks I have to click. A macro is basically a sequence of clicks and/or keystrokes that you can “play back” many times. I personally own a keyboard/mouse that comes with software to record and playback macros, but there are also more sophisticated ways of creating macros. There is a chrome/firefox extension called “iMacros” that is specifically for this type of problem. A more professional tool, that has even more control when creating macros, is called “Selenium.” As for the long term, I will send your complaint up the chain, and ask about creating some bulk actions for deleting and clearing caches of multiple indices.
 
 Hope this helps, and let met know if you have any other questions,
 Mathew

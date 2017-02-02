@@ -4,7 +4,7 @@ window.image_base_url = 'https://www.opentable.com/img/restimages/';
 
 
 $(function () {
-	console.log('Page loaded');
+	// console.log('Page loaded');
 
 
 
@@ -22,7 +22,7 @@ $(function () {
 	});
 
 	helper.on('result', function(content) {
-		console.log(content);
+		// console.log(content);
 		renderFacetList(content); 
 		renderHits(content);
 	});
@@ -84,7 +84,7 @@ $(function () {
 	});
 	$('#payment-options-list').on('click', 'li', function(e) {
 		var id = parseInt($(this).attr('id').replace(/^po-/, ''));
-		console.log("Payment Option ID: "+id);
+		// console.log("Payment Option ID: "+id);
 	});
 	$(document).on('click mouseenter mouseleave', '.raiting-container ul li img', function(e) {
 		var empty = 'inc/graphics/star-empty.png';
@@ -151,7 +151,7 @@ $(function () {
 // }
 
 function load_payment_options() { 
-	console.log('load_payment_options()');
+	// console.log('load_payment_options()');
 	$.ajax({
 		url: 'inc/actions.php',
 		method: 'POST',

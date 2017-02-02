@@ -12,7 +12,7 @@ Greeting Matt,
 
 Sorry to hear that you aren't liking the layout of the new dashboard. As far as I know, the buttons are where they are now to prevent erroneous deletions. When I have to do a repetitive task in a user interface, I will often program a macro to cut down on the number of manual clicks I have to click. A macro is basically a sequence of clicks and/or keystrokes that you can “play back” many times. I personally own a keyboard/mouse that comes with software to record and playback macros, but there are also more sophisticated ways of creating macros. There are chrome/firefox extensions called “iMacros” that are specifically for this type of problem. A more professional tool that has even more control when creating macros is called “Selenium.” As for the long term, I will send your complaint up the chain, and ask about creating some bulk actions for deleting and clearing caches of multiple indices.
 
-I'll get back to you about timing,
+Hope this helps, and let met know if you have any other questions,
 Mathew
 
 
@@ -22,5 +22,5 @@ Greetings Leo,
 
 I'm excited you are interested in integrating Algolia into your website, and it isn't hard at all! Essentially you output your content from your database in json format and run it through our software on a regular basis. Finally replace the existing database output to the Algolia output before it gets to your existing views. There will be a little more dev work involved depending on if your data/views are not already in a json ready format. It usually takes one developer less than a week to get a working prototype up; and less than a month to finalize the data flow and work out any kinks that pop up. 
 
-Hope this helps,
+Hope this helps, and let met know if you have any other questions,
 Mathew  

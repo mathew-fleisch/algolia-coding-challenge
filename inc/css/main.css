@@ -76,6 +76,9 @@
     margin:0;
     display:inline-block;
 }
+.raiting-container ul, .raiting-container ul li, .raiting-container ul li img {
+    cursor:pointer;
+}
 /* Raiting Styles END*/
 
 /* Payment Options Styles */

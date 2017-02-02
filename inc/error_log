@@ -1,4 +1,0 @@
-[01-Feb-2017 11:21:43 America/Los_Angeles] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/digit26/public_html/algolia/MathewFleisch/inc/actions.php on line 73
-[01-Feb-2017 11:21:43 America/Los_Angeles] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/digit26/public_html/algolia/MathewFleisch/inc/actions.php on line 74
-[01-Feb-2017 11:21:55 America/Los_Angeles] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/digit26/public_html/algolia/MathewFleisch/inc/actions.php on line 73
-[01-Feb-2017 11:21:55 America/Los_Angeles] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/digit26/public_html/algolia/MathewFleisch/inc/actions.php on line 74
